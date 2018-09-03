@@ -1,7 +1,7 @@
 # Introduction
 **This is a simple pipeline for expression and survival analyses of a single gene in all the TCGA projects.**
 
-**['Manual'](http://htmlpreview.github.io/?https://github.com/Jialab-UCR/Jialab-UCR.github.io/blob/master/batchTCGA.html)**
+**[Manual of batchTCGA](http://htmlpreview.github.io/?https://github.com/Jialab-UCR/Jialab-UCR.github.io/blob/master/batchTCGA.html)**
 
 ***
 
