@@ -1,22 +1,7 @@
----
-title: 'batchTCGA: a simple pipeline for expression and survival analyses of a single gene in all the TCGA projects'
-author: 'Ruidong Li'
-date: "Last update: `r format(Sys.time(), '%d %B, %Y')`" 
-vignette: >
-    %\VignetteIndexEntry{'batchTCGA: a simple pipeline for expression and survival analyses of a single gene in all the TCGA projects'}
-    %\VignetteEngine{knitr::rmarkdown}
-    %\VignetteEncoding{UTF-8}
-output:
-    prettydoc::html_pretty:
-      theme : 'cayman'
-      highlight: vignette 
-      toc: true
-      number_sections: true
-      #pandoc_args: '--latex-engine=xelatex'
----
-
 # Introduction
 **This is a simple pipeline for expression and survival analyses of a single gene in all the TCGA projects.**
+
+**['Manual'](http://htmlpreview.github.io/?https://github.com/Jialab-UCR/Jialab-UCR.github.io/blob/master/batchTCGA.html)**
 
 ***
 
